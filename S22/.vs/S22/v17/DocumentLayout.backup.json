@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\S22\\S22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:S22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\S22\\Point2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:Point2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\S22\\Creature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:Creature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creature.h",
+              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Creature.h",
+              "RelativeDocumentMoniker": "Creature.h",
+              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Creature.h",
+              "RelativeToolTip": "Creature.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-13T12:01:05.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point2d.h",
+              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Point2d.h",
+              "RelativeDocumentMoniker": "Point2d.h",
+              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Point2d.h",
+              "RelativeToolTip": "Point2d.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-13T11:57:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "S22.cpp",
+              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\S22.cpp",
+              "RelativeDocumentMoniker": "S22.cpp",
+              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\S22.cpp",
+              "RelativeToolTip": "S22.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T16:02:58.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
